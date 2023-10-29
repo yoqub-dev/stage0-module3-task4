@@ -9,5 +9,13 @@ public class SettingTypes {
         float fifth = 12.3F;
         byte sixth = 1;
         short seventh = 129;
+
+        System.out.println("first: " + first);
+        System.out.println("second: " + second);
+        System.out.println("third: " + third);
+        System.out.println("forth: " + forth);
+        System.out.println("fifth: " + fifth);
+        System.out.println("sixth: " + sixth);
+        System.out.println("seventh: " + seventh);
     }
 }
